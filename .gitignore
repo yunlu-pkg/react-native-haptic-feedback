@@ -65,3 +65,5 @@ lib/
 
 
 local-rn-version-examples/
+
+.npmrc

@@ -1,6 +1,6 @@
 {
-  "name": "react-native-haptic-feedback",
-  "version": "2.3.3",
+  "name": "@yunlu-pkg/react-native-haptic-feedback",
+  "version": "1.0.0",
   "description": "Basic haptic feedback for iOS and android",
   "license": "MIT",
   "source": "src/index.ts",
@@ -49,7 +49,7 @@
     "react-native": ">=0.60.0"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
